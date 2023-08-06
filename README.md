@@ -1,13 +1,13 @@
 # SPSGP-66856-Virtual-Internship---Android-Application-Development-Using-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 
-## Name: Parre Hosanna
+## Name: Joshua Israel Tumati
 
 ⏩ [Main Project 1](https://github.com/smartinternz02/SPSGP-66856-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Nearby-Places-Finder-App.zip)
 
 ⏩ [Main Project 2](https://github.com/smartinternz02/SPSGP-66856-Virtual-Internship---Android-Application-Development-Using-Kotlin/tree/main/Grocery-App.zip)
 
-⏩ [Google Developer Profile](https://g.dev/Hosanna3125)
+⏩ [Google Developer Profile](https://g.dev/joshua777)
 
 ### All Android Projects:
 
